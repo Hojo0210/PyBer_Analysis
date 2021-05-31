@@ -11,3 +11,5 @@ The line chart clearly shows all of this data, and also shows the value of the f
 ![Alt text](https://github.com/Hojo0210/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
+The first recommendation that I have would be to get the distance of each ride to better assess the data. It is my assumption that the high expense of rides in rural areas is attirbuted to a long distance being traveled. The high cost of these rides could be keeping people from using the service. The company could lower the price of the rides in rural areas to incentivize more rides.
+
